@@ -67,6 +67,11 @@ const familiarFourTrial = {
   choices: ['Continue'],
   response_allowed_while_playing: false
 }
+//**********************
+// Here begin the trials
+//**********************
+
+
 
 const TestTrialFut = {
   type: jsPsychVideoButtonResponse,
