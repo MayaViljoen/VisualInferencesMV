@@ -68,19 +68,39 @@ const familiarFourTrial = {
   response_allowed_while_playing: false
 }
 
-const familiarFourTrial = {
+const TestTrialFut = {
   type: jsPsychVideoButtonResponse,
-  stimulus: ['./videos/familiarization4.mp4'],
+  stimulus: ['./videos2/targetJKawayFUT.mp4'],
+  choices: ['Continue'],
+  response_allowed_while_playing: false
+}
+
+
+const NoControlFut = {
+  type: jsPsychVideoButtonResponse,
+  stimulus: ['./videos2/NocontrolFUT.mp4'],
+  choices: ['Continue'],
+  response_allowed_while_playing: false
+}
+
+
+const YesControlJFut = {
+  type: jsPsychVideoButtonResponse,
+  stimulus: ['./videos2/YesControlJBlurredFut.mp4'],
+  choices: ['Continue'],
+  response_allowed_while_playing: false
+}
+
+//Do we want mirrored?
+const YesControlKFut = {
+  type: jsPsychVideoButtonResponse,
+  stimulus: ['./videos2/YesControlKBlurredFut.mp4'],
   choices: ['Continue'],
   response_allowed_while_playing: false
 }
 
 
 
-timeline.push(familiarOneTrial, familiarTwoTrial, familiarThreeTrial, familiarFourTrial)
-
-
-
+timeline.push(familiarOneTrial, familiarTwoTrial, familiarThreeTrial, familiarFourTrial,TestTrialFut,NoControlFut,YesControlJFut,  YesControlKFut)
 
 jsPsych.run(timeline)
-
