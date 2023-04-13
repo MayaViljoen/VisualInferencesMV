@@ -49,6 +49,7 @@ NOTES FROM PREVIOUS EXPERIMENT
 
 Familiarization Trials : 1-4****will b same for this exp
 
+Is it guaranteed: less notion of agency
 
 ## Test Trial: Future: Possibility
 **Which Gate do you think will open?**
