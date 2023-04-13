@@ -17,7 +17,7 @@ Predict: fallacy rates to be lower than linguistic paradigm.
 **Consent** 
 We invite you to participate in a research study being conducted by investigators from ENS.
 
-The purpose of the study is to learn about visual illusory inferences? 
+The purpose of the study is to learn about visual illusory inferences
 
 We will ask you to fill out a questionnaire in English, involving such tasks as reading sentences or words, naming pictures or describing scenes, deciding what sentences follow from other sentences, or participating in simple language games. If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time.  However, please note that in order to validate the HIT you need to complete the experiment and type in the code you will get at the end on the HIT's page on Mechanical Turk.  Otherwise we have no way to process your payment.
 
@@ -120,3 +120,19 @@ Do you think gate k was opened?
 Testing for bias?
 
 BASELINE : Minimally different from test trial : do not reveal top left gate open!-> filter out biasses : ?
+
+
+## My Questions 
+
+**Test Trial: Past:Possibility& Yes Control:Past: Posibility**
+
+Disjunctive Trial & Target trial  
+ 
+Do we show the outcome here, surely since this is a test trial involving reasoning in terms of past possibility the participant should see the outcome?
+
+
+**No Control future**
+A similar question here, showing the outcome (3 parallel gates)
+By representing the outcome but asking a future question, this confuses me, as the particpant is aware that the water has already come through (some sort of past representation), yet must predict whether J is guaranteed to open 
+
+
